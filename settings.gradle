@@ -1,0 +1,2 @@
+rootProject.name='MVPROOMApp'
+include ':app'

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MVPROOMApp</string>
+    <string name="username_welcome">Welcome %s</string>
+</resources>
